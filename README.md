@@ -1,6 +1,7 @@
 # facebook-clone
 
 Facebook clone made with react js and next js for study purpose.
+Check it out https://fb-clone-puce.vercel.app/
 
 # test it
 
